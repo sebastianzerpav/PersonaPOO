@@ -1,0 +1,14 @@
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.AssemblyInfoInputs.cache
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.AssemblyInfo.cs
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.csproj.CoreCompileInputs.cache
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\bin\Debug\net6.0\PersonaPOO_SebasZerpa.exe
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\bin\Debug\net6.0\PersonaPOO_SebasZerpa.deps.json
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\bin\Debug\net6.0\PersonaPOO_SebasZerpa.runtimeconfig.json
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\bin\Debug\net6.0\PersonaPOO_SebasZerpa.dll
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\bin\Debug\net6.0\PersonaPOO_SebasZerpa.pdb
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.dll
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\refint\PersonaPOO_SebasZerpa.dll
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.pdb
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\PersonaPOO_SebasZerpa.genruntimeconfig.cache
+D:\Repositorios\LogicaClaseITM\PersonaPOO\PersonaPOO_SebasZerpa\obj\Debug\net6.0\ref\PersonaPOO_SebasZerpa.dll

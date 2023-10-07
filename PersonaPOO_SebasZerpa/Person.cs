@@ -21,8 +21,8 @@ namespace PersonaPOO_SebasZerpa
 
         public string showPersonInfo()
         {
-            return $"El primer nombre de la persona es: {firstName}. \n" +
-                $"El apellido de la persona es: {lastName}. \n" +
+            return $"El primer nombre de la persona es: {firstName}. \n " +
+                $"El primer apellido de la persona es: {lastName}. \n" +
                 $"El año de nacimiento de la persona es: {yearBirth}.";
         }
 
