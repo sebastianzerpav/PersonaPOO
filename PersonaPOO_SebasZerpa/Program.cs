@@ -17,9 +17,8 @@
 
             Person person = new Person(FIRST_NAME, LAST_NAME, YEAR_BIRTH);
 
-            Console.WriteLine(person.showPersonInfo);
-            Console.WriteLine($"Su edad calculada es: {person.CalculateAge()}");
-
+            Console.WriteLine(person.showPersonInfo());
+            Console.Write($"Su edad calculada es: {person.CalculateAge()}");
         }
     }
 }
