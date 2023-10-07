@@ -7,6 +7,8 @@
             string FIRST_NAME, LAST_NAME;
             int YEAR_BIRTH;
 
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+          
             Console.WriteLine("----- CALCULADORA DE EDAD -----\n");
             Console.Write("Ingrese su primer nombre: ");
             FIRST_NAME = Console.ReadLine();
