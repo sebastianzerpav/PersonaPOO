@@ -21,17 +21,23 @@ namespace PersonaPOO_SebasZerpa
 
         public string showPersonInfo()
         {
-            return $"El primer nombre de la persona es: {firstName} \n " +
-                $"El primer apellido de la persona es: {lastName} \n" +
-                $"El año de nacimiento de la persona es: {yearBirth} \n ";
+            return $"Su primer nombre es: {firstName}\n" +
+                $"Su primer apellido es: {lastName}\n" +
+                $"Su año de nacimiento es: {yearBirth}\n ";
         }
 
         public int CalculateAge()
         {
             int year = 2023;
             int age = (year - yearBirth);
-            return age;
-                
+            return age;         
+        }
+
+        public string dirigirseAPersona()
+        {
+            return $"¡Hola, {firstName} {lastName}!";
+
+            
         }
     }
 }
